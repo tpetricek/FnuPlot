@@ -1,3 +1,6 @@
+#### 0.0.6-beta - January 19, 2015
+* Fixed package logo
+
 #### 0.0.5-beta - December 22, 2014
 * Adding more documentation, minor code refactoring
 
