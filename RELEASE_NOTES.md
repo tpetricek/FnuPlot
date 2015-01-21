@@ -1,3 +1,6 @@
+#### 0.0.7-beta - January 21, 2015
+* Support displaying series as points or impulses
+
 #### 0.0.6-beta - January 19, 2015
 * Fixed package logo
 
